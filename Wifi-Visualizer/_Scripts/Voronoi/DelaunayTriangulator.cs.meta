@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1aabab9d5586d6547b5ec65d58f0c77f
+timeCreated: 1547664834
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tetrahedronPrefab: {fileID: 114700736048480700, guid: a86e82a46094e41498af4f1d53a77a6a,
+      type: 2}
+  - measurementPrefab: {fileID: 114485044599547470, guid: 00bcd9a108a12234e84c442e8efaa6d5,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
